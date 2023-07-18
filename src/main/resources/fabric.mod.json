@@ -9,11 +9,11 @@
     "Maheesha Adelina"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/MaheEvil/Fabric-Example-Mod-Parchment-QF"
+    "homepage": "https://github.com/MaheEvil/MobDamageControl",
+    "sources": "https://github.com/MaheEvil/MobDamageControl"
   },
 
-  "license": "CC0-1.0",
+  "license": "LGPL-3.0",
   "icon": "assets/mob_damage_con/icon.png",
 
   "environment": "*",
