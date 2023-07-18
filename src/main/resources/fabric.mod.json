@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "mob_damage_con",
   "version": "${version}",
 
-  "name": "Example Mod",
+  "name": "Mob Damage Control",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Maheesha"
+    "Maheesha Adelina"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -14,16 +14,16 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/mob_damage_con/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "io.github.maheevil.example.ExampleMod"
+      "io.github.maheevil.MobDamageControlMod"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "mob_damage_con.mixins.json"
   ],
 
   "depends": {
