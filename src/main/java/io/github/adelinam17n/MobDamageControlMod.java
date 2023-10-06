@@ -1,4 +1,4 @@
-package io.github.maheevil;
+package io.github.adelinam17n;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;

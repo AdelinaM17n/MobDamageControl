@@ -6,11 +6,11 @@
   "name": "Mob Damage Control",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Maheesha Adelina"
+    "Adelina"
   ],
   "contact": {
-    "homepage": "https://github.com/MaheEvil/MobDamageControl",
-    "sources": "https://github.com/MaheEvil/MobDamageControl"
+    "homepage": "https://github.com/AdelinaM17n/MobDamageControl",
+    "sources": "https://github.com/AdelinaM17n/MobDamageControl"
   },
 
   "license": "LGPL-3.0",
@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "io.github.maheevil.MobDamageControlMod"
+      "io.github.adelinam17n.MobDamageControlMod"
     ]
   },
   "mixins": [
